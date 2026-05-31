@@ -1,2 +1,5 @@
-# AGYENGOS_PROJECT_HUB
-Data Science Projects  undertaken by Agyengo
+#pip install streamlit pandas matplotlib #scikit-learn 
+#cd your-project-folder 
+#streamlit run app.py 
+
+# http://localhost:8501 
