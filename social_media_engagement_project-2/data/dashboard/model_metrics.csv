@@ -1,0 +1,4 @@
+Model,Best Params,CV F1-Score,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Logistic Regression,"{'C': 0.1, 'penalty': 'l2'}",0.5180350079518128,0.505,0.5054945054945055,0.46,0.4816753926701571,0.4878
+Random Forest,"{'max_depth': 10, 'min_samples_leaf': 3, 'n_estimators': 400}",0.5456394590517523,0.535,0.528,0.66,0.5866666666666667,0.49330000000000007
+XGBoost,"{'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 200}",0.5341257135210322,0.445,0.44660194174757284,0.46,0.45320197044334976,0.44189999999999996
